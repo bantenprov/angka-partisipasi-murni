@@ -4,19 +4,112 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "yyyy": "2018",
+      "yyyy": "2011",
+      "index": "Banten-2011",
       "data": [
-        "SD/MI/Paket A",
-        "SMP/MTS/Paket B",
-        "SMA/SMK/Paket C"
+        "SD/MI/Paket A ",
+        "SMP/MTS/Paket B ",
+        "SMA/SMK/MA/Paket C"
       ]
     },
     "series": [
       {
         "data": [
-          120,
-          200,
-          150
+          92.41,
+          71.01,
+          46.24
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2012",
+      "index": "Banten-2012",
+      "data": [
+        "SD/MI/Paket A ",
+        "SMP/MTS/Paket B ",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          93.67,
+          73.79,
+          53
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2013",
+      "index": "Banten-2013",
+      "data": [
+        "SD/MI/Paket A ",
+        "SMP/MTS/Paket B ",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96.24,
+          78.17,
+          53.28
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2014",
+      "index": "Banten-2014",
+      "data": [
+        "SD/MI/Paket A ",
+        "SMP/MTS/Paket B ",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96.69,
+          79.56,
+          56.87
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2015",
+      "index": "Banten-2015",
+      "data": [
+        "SD/MI/Paket A ",
+        "SMP/MTS/Paket B ",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96.98,
+          79.84,
+          57.04
         ]
       }
     ]
@@ -26,19 +119,112 @@
       "type": "category",
       "region": "Negara",
       "name": "Indonesia",
-      "yyyy": "2018",
+      "yyyy": "2014",
+      "index": "Indonesia-2014",
       "data": [
-        "SD/MI/Paket A",
-        "SMP/MTS/Paket F",
-        "SMA/SMK/Paket C"
+        "SD/MI/Paket A ",
+        "SMP/MTS/Paket B ",
+        "SMA/SMK/MA/Paket C"
       ]
     },
     "series": [
       {
         "data": [
-          50,
-          30,
-          350
+          91.07,
+          68.36,
+          48.07
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2015",
+      "index": "Indonesia-2015",
+      "data": [
+        "SD/MI/Paket A ",
+        "SMP/MTS/Paket B ",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          92.54,
+          70.93,
+          51.88
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2013",
+      "index": "Indonesia-2013",
+      "data": [
+        "SD/MI/Paket A ",
+        "SMP/MTS/Paket B ",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          95.59,
+          73.88,
+          54.25
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2014",
+      "index": "Indonesia-2014",
+      "data": [
+        "SD/MI/Paket A ",
+        "SMP/MTS/Paket B ",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96.45,
+          77.53,
+          59.35
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2015",
+      "index": "Indonesia-2015",
+      "data": [
+        "SD/MI/Paket A ",
+        "SMP/MTS/Paket B ",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96.7,
+          77.82,
+          59.71
         ]
       }
     ]
