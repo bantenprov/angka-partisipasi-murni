@@ -3,6 +3,12 @@
 [![Join the chat at https://gitter.im/angka-partisipasi-murni/Lobby](https://badges.gitter.im/angka-partisipasi-murni/Lobby.svg)](https://gitter.im/angka-partisipasi-murni/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/angka-partisipasi-murni/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/angka-partisipasi-murni/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/bantenprov/angka-partisipasi-murni/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/angka-partisipasi-murni/build-status/master)
+[![Latest Stable Version](https://poser.pugx.org/bantenprov/angka-partisipasi-murni/v/stable)](https://packagist.org/packages/bantenprov/angka-partisipasi-murni)
+[![Total Downloads](https://poser.pugx.org/bantenprov/angka-partisipasi-murni/downloads)](https://packagist.org/packages/bantenprov/angka-partisipasi-murni)
+[![Latest Unstable Version](https://poser.pugx.org/bantenprov/angka-partisipasi-murni/v/unstable)](https://packagist.org/packages/bantenprov/angka-partisipasi-murni)
+[![License](https://poser.pugx.org/bantenprov/angka-partisipasi-murni/license)](https://packagist.org/packages/bantenprov/angka-partisipasi-murni)
+[![Monthly Downloads](https://poser.pugx.org/bantenprov/angka-partisipasi-murni/d/monthly)](https://packagist.org/packages/bantenprov/angka-partisipasi-murni)
+[![Daily Downloads](https://poser.pugx.org/bantenprov/angka-partisipasi-murni/d/daily)](https://packagist.org/packages/bantenprov/angka-partisipasi-murni)
 
 Angka partisipasi Murni (APM)
 
