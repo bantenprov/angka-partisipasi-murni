@@ -45,6 +45,13 @@ $ git clone https://github.com/bantenprov/angka-partisipasi-murni.git
     Bantenprov\APMurni\APMurniServiceProvider::class,
 
 ```
+#### Untuk publish component vue :
+
+```bash
+$ php artisan vendor:publish --tag=ap-murni-assets
+$ php artisan vendor:publish --tag=ap-murni-public
+```
+
 #### Tambahkan route di dalam route : `resources/assets/js/routes.js` :
 
 ```javascript
@@ -164,11 +171,4 @@ Vue.component('ap-murni-pie-02', APMurniPie02);
 //== mini pie charts
 import APMurniPie03 from './components/views/bantenprov/ap-murni/APMurniPie03.vue';
 Vue.component('ap-murni-pie-03', APMurniPie03);
-```
-
-#### Untuk publish component vue :
-
-```bash
-$ php artisan vendor:publish --tag=ap-murni-assets
-$ php artisan vendor:publish --tag=ap-murni-public
 ```

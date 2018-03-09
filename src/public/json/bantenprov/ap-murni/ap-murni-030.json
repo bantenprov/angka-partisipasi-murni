@@ -1,126 +1,210 @@
 [
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
+      "title": "Angka Partisipasi Murni Provinsi Banten 2011",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
-        "2014",
-        "2015",
-        "2016"
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/MA/Paket C"
       ]
     },
     "series": [
       {
         "data": [
-          120,
-          200,
-          150
+          92.41,
+          71.01,
+          46.24
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
-      "region": "Negara",
-      "name": "Indonesia",
-      "data": [
-        "2014",
-        "2015",
-        "2016"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          300,
-          450,
-          750
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP/MTS/Paket B",
+      "title": "Angka Partisipasi Murni Indonesia 2011",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
-        "2014",
-        "2015",
-        "2016"
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/MA/Paket C"
       ]
     },
     "series": [
       {
         "data": [
-          220,
-          270,
-          350
+          91.07,
+          68.36,
+          48.07
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SMP/MTS/Paket B",
-      "region": "Negara",
-      "name": "Indonesia",
-      "data": [
-        "2014",
-        "2015",
-        "2016"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          380,
-          510,
-          690
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA/SMK/Paket C",
+      "title": "Angka Partisipasi Murni Provinsi Banten 2012",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
-        "2014",
-        "2015",
-        "2016"
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/MA/Paket C"
       ]
     },
     "series": [
       {
         "data": [
-          120,
-          270,
-          450
+          93.67,
+          73.79,
+          53.00
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SMA/SMK/Paket C",
-      "region": "Negara",
-      "name": "Indonesia",
+      "title": "Angka Partisipasi Murni Indonesia 2012",
+      "region": "Provinsi",
+      "name": "Banten",
       "data": [
-        "2014",
-        "2015",
-        "2016"
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/MA/Paket C"
       ]
     },
     "series": [
       {
         "data": [
-          680,
-          710,
-          1990
+          92.54,
+          70.93,
+          51.88
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Angka Partisipasi Murni Provinsi Banten 2013",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96.24,
+          78.17,
+          53.28
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Angka Partisipasi Murni Indonesia 2013",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          95.59,
+          73.88,
+          54.25
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Angka Partisipasi Murni Provinsi Banten 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96.69,
+          79.56,
+          56.87
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Angka Partisipasi Murni Indonesia 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96.45,
+          77.53,
+          59.35
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Angka Partisipasi Provinsi Banten 2015",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96.98,
+          79.84,
+          57.04
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Angka Partisipasi Indonesia 2015",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/MA/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96.70,
+          77.82,
+          59.71
         ]
       }
     ]

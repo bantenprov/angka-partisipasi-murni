@@ -1,8 +1,8 @@
 [
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
-      "type": "category",
+      "title": "SD/MI/Paket A Provinsi Banten",
+      "type": "title",
       "region": "Provinsi",
       "name": "Banten"
     },
@@ -10,16 +10,24 @@
       {
         "data": [
           {
-            "value": 120,
+            "value": 92.41,
             "name": "2011"
           },
           {
-            "value": 200,
+            "value": 93.67,
             "name": "2012"
           },
           {
-            "value": 150,
+            "value": 96.24,
             "name": "2013"
+          },
+          {
+            "value": 96.69,
+            "name": "2014"
+          },
+          {
+            "value": 96.98,
+            "name": "2015"
           }
         ]
       }
@@ -27,25 +35,169 @@
   },
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
-      "type": "category",
-      "region": "Negara",
-      "name": "Indonesia"
+      "title": "SD/MI/Paket A Negara Indonesia",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
     },
     "series": [
       {
         "data": [
           {
-            "value": 320,
+            "value": 91.07,
             "name": "2011"
           },
           {
-            "value": 400,
+            "value": 92.54,
             "name": "2012"
           },
           {
-            "value": 550,
+            "value": 95.59,
             "name": "2013"
+          },
+          {
+            "value": 96.45,
+            "name": "2014"
+          },
+          {
+            "value": 96.70,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "SMP/MTS/Paket B Provinsi Banten",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 71.01,
+            "name": "2011"
+          },
+          {
+            "value": 73.79,
+            "name": "2012"
+          },
+          {
+            "value": 78.17,
+            "name": "2013"
+          },
+          {
+            "value": 79.56,
+            "name": "2014"
+          },
+          {
+            "value": 79.84,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "SMP/MTS/Paket B Negara Indonesia",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 68.36,
+            "name": "2011"
+          },
+          {
+            "value": 70.93,
+            "name": "2012"
+          },
+          {
+            "value": 73.88,
+            "name": "2013"
+          },
+          {
+            "value": 77.53,
+            "name": "2014"
+          },
+          {
+            "value": 77.82,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "SMA/SMK/MA/Paket C Provinsi Banten",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 46.24,
+            "name": "2011"
+          },
+          {
+            "value": 53.00,
+            "name": "2012"
+          },
+          {
+            "value": 53.28,
+            "name": "2013"
+          },
+          {
+            "value": 56.87,
+            "name": "2014"
+          },
+          {
+            "value": 57.04,
+            "name": "2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "SMA/SMK/MA/Paket C Negara Indonesia",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 48.07,
+            "name": "2011"
+          },
+          {
+            "value": 51.88,
+            "name": "2012"
+          },
+          {
+            "value": 54.25,
+            "name": "2013"
+          },
+          {
+            "value": 59.35,
+            "name": "2014"
+          },
+          {
+            "value": 59.71,
+            "name": "2015"
           }
         ]
       }

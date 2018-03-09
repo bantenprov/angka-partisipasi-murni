@@ -1,8 +1,8 @@
 [
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
-      "type": "category",
+      "title": "SD/MI/Paket A Provinsi Banten 2012",
+      "type": "title",
       "region": "Provinsi",
       "name": "Banten"
     },
@@ -10,16 +10,36 @@
       {
         "data": [
           {
-            "value": 120,
-            "name": "2011"
+            "value": 92.66,
+            "name": "Kabupaten Pandeglang"
           },
           {
-            "value": 200,
-            "name": "2012"
+            "value": 93.06,
+            "name": "Kabupaten Lebak"
           },
           {
-            "value": 150,
-            "name": "2013"
+            "value": 95.89,
+            "name": "Kabupaten Tangerang"
+          },
+          {
+            "value": 93.89,
+            "name": "Kabupaten Serang"
+          },
+          {
+            "value": 91.40,
+            "name": "Kota Tangerang"
+          },
+          {
+            "value": 93.19,
+            "name": "Kota Cilegon"
+          },
+          {
+            "value": 93.47,
+            "name": "Kota Serang"
+          },
+          {
+            "value": 92.74,
+            "name": "Kota Tangerang Selatan"
           }
         ]
       }
@@ -27,25 +47,367 @@
   },
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
-      "type": "category",
-      "region": "Negara",
-      "name": "Indonesia"
+      "title": "SMP/MTS/Paket B Provinsi Banten 2012",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
     },
     "series": [
       {
         "data": [
           {
-            "value": 320,
-            "name": "2011"
+            "value": 77.97,
+            "name": "Kabupaten Pandeglang"
           },
           {
-            "value": 400,
-            "name": "2012"
+            "value": 69.99,
+            "name": "Kabupaten Lebak"
           },
           {
-            "value": 550,
-            "name": "2013"
+            "value": 75.96,
+            "name": "Kabupaten Tangerang"
+          },
+          {
+            "value": 76.80,
+            "name": "Kabupaten Serang"
+          },
+          {
+            "value": 66.48,
+            "name": "Kota Tangerang"
+          },
+          {
+            "value": 80.20,
+            "name": "Kota Cilegon"
+          },
+          {
+            "value": 68.90,
+            "name": "Kota Serang"
+          },
+          {
+            "value": 74.79,
+            "name": "Kota Tangerang Selatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "SMA/SMK/MA/Paket C Provinsi Banten 2012",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 45.12,
+            "name": "Kabupaten Pandeglang"
+          },
+          {
+            "value": 37.23,
+            "name": "Kabupaten Lebak"
+          },
+          {
+            "value": 54.64,
+            "name": "Kabupaten Tangerang"
+          },
+          {
+            "value": 43.71,
+            "name": "Kabupaten Serang"
+          },
+          {
+            "value": 59.30,
+            "name": "Kota Tangerang"
+          },
+          {
+            "value": 60.65,
+            "name": "Kota Cilegon"
+          },
+          {
+            "value": 51.10,
+            "name": "Kota Serang"
+          },
+          {
+            "value": 61.83,
+            "name": "Kota Tangerang Selatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "SD/MI/Paket A Provinsi Banten 2013",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 93.73,
+            "name": "Kabupaten Pandeglang"
+          },
+          {
+            "value": 97.09,
+            "name": "Kabupaten Lebak"
+          },
+          {
+            "value": 96.74,
+            "name": "Kabupaten Tangerang"
+          },
+          {
+            "value": 97.56,
+            "name": "Kabupaten Serang"
+          },
+          {
+            "value": 93.24,
+            "name": "Kota Tangerang"
+          },
+          {
+            "value": 95.49,
+            "name": "Kota Cilegon"
+          },
+          {
+            "value": 96.23,
+            "name": "Kota Serang"
+          },
+          {
+            "value": 97.80,
+            "name": "Kota Tangerang Selatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "SMP/MTS/Paket B Provinsi Banten 2013",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 73.01,
+            "name": "Kabupaten Pandeglang"
+          },
+          {
+            "value": 65.08,
+            "name": "Kabupaten Lebak"
+          },
+          {
+            "value": 82.22,
+            "name": "Kabupaten Tangerang"
+          },
+          {
+            "value": 80.94,
+            "name": "Kabupaten Serang"
+          },
+          {
+            "value": 80.59,
+            "name": "Kota Tangerang"
+          },
+          {
+            "value": 85.32,
+            "name": "Kota Cilegon"
+          },
+          {
+            "value": 76.79,
+            "name": "Kota Serang"
+          },
+          {
+            "value": 73.96,
+            "name": "Kota Tangerang Selatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "SMA/SMK/MA/Paket C Provinsi Banten 2013",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 49.29,
+            "name": "Kabupaten Pandeglang"
+          },
+          {
+            "value": 44.13,
+            "name": "Kabupaten Lebak"
+          },
+          {
+            "value": 54.75,
+            "name": "Kabupaten Tangerang"
+          },
+          {
+            "value": 50.10,
+            "name": "Kabupaten Serang"
+          },
+          {
+            "value": 59.37,
+            "name": "Kota Tangerang"
+          },
+          {
+            "value": 55.74,
+            "name": "Kota Cilegon"
+          },
+          {
+            "value": 56.82,
+            "name": "Kota Serang"
+          },
+          {
+            "value": 51.87,
+            "name": "Kota Tangerang Selatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "SD/MI/Paket A Provinsi Banten 2014",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 94.30,
+            "name": "Kabupaten Pandeglang"
+          },
+          {
+            "value": 97.56,
+            "name": "Kabupaten Lebak"
+          },
+          {
+            "value": 97.57,
+            "name": "Kabupaten Tangerang"
+          },
+          {
+            "value": 97.99,
+            "name": "Kabupaten Serang"
+          },
+          {
+            "value": 93.75,
+            "name": "Kota Tangerang"
+          },
+          {
+            "value": 96.31,
+            "name": "Kota Cilegon"
+          },
+          {
+            "value": 97.21,
+            "name": "Kota Serang"
+          },
+          {
+            "value": 98.33,
+            "name": "Kota Tangerang Selatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "SMP/MTS/Paket B Provinsi Banten 2014",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 75.05,
+            "name": "Kabupaten Pandeglang"
+          },
+          {
+            "value": 68.94,
+            "name": "Kabupaten Lebak"
+          },
+          {
+            "value": 84.35,
+            "name": "Kabupaten Tangerang"
+          },
+          {
+            "value": 81.67,
+            "name": "Kabupaten Serang"
+          },
+          {
+            "value": 81.42,
+            "name": "Kota Tangerang"
+          },
+          {
+            "value": 85.93,
+            "name": "Kota Cilegon"
+          },
+          {
+            "value": 75.96,
+            "name": "Kota Serang"
+          },
+          {
+            "value": 76.48,
+            "name": "Kota Tangerang Selatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "SMA/SMK/MA/Paket C Provinsi Banten 2014",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 56.98,
+            "name": "Kabupaten Pandeglang"
+          },
+          {
+            "value": 46.49,
+            "name": "Kabupaten Lebak"
+          },
+          {
+            "value": 55.31,
+            "name": "Kabupaten Tangerang"
+          },
+          {
+            "value": 56.18,
+            "name": "Kabupaten Serang"
+          },
+          {
+            "value": 60.28,
+            "name": "Kota Tangerang"
+          },
+          {
+            "value": 69.69,
+            "name": "Kota Cilegon"
+          },
+          {
+            "value": 59.08,
+            "name": "Kota Serang"
+          },
+          {
+            "value": 63.39,
+            "name": "Kota Tangerang Selatan"
           }
         ]
       }
