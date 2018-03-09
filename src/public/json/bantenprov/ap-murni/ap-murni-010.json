@@ -3,7 +3,7 @@
     "xAxis": {
       "type": "category",
       "region": "Provinsi",
-      "name": "Banten",
+      "title": "Angka Partisipasi Murni Kabupaten Pandeglang 2012",
       "yyyy": "2018",
       "data": [
         "SD/MI/Paket A",
@@ -14,9 +14,9 @@
     "series": [
       {
         "data": [
-          120,
-          200,
-          150
+          92.66,
+          77.97,
+          45.12
         ]
       }
     ]
@@ -25,20 +25,504 @@
     "xAxis": {
       "type": "category",
       "region": "Negara",
-      "name": "Indonesia",
+      "title": "Angka Partisipasi Murni Kabupaten Lebak 2012",
       "yyyy": "2018",
       "data": [
         "SD/MI/Paket A",
-        "SMP/MTS/Paket F",
+        "SMP/MTS/Paket B",
         "SMA/SMK/Paket C"
       ]
     },
     "series": [
       {
         "data": [
-          50,
-          30,
-          350
+          93.06,
+          69.99,
+          37.23
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kabupaten Tangerang 2012",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          95.89,
+          75.96,
+          54.64
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kabupaten Serang 2012",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          93.89,
+          76.80,
+          43.71
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kota Tangerang 2012",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          91.40,
+          66.48,
+          59.30
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kota Cilegon 2012",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          93.19,
+          80.20,
+          60.65
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kota Serang 2012",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          93.47, 
+          68.90,
+          51.10 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kota Tangerang Selatan 2012",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          92.74, 
+          74.79,
+          61.83 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "title": "Angka Partisipasi Murni Kabupaten Pandeglang 2013",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          93.73,  
+          73.01,  
+          49.29  
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kabupaten Lebak 2013",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          97.09,  
+          65.08,  
+          44.13  
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kabupaten Tangerang 2013",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96.74,  
+          82.22,  
+          54.75  
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kabupaten Serang 2013",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          97.56,  
+          80.94,  
+          50.10  
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kota Tangerang 2013",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          93.24,  
+          80.59,  
+          59.37  
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kota Cilegon 2013",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          95.49,  
+          85.32,  
+          55.74  
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kota Serang 2013",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96.23,  
+          76.79,  
+          56.82   
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kota Tangerang Selatan 2013",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          97.80,  
+          73.96,  
+          51.87   
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "title": "Angka Partisipasi Murni Kabupaten Pandeglang 2014",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          94.30, 
+          75.05, 
+          56.98   
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kabupaten Lebak 2014",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          97.56, 
+          68.94, 
+          46.49   
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kabupaten Tangerang 2014",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          97.57, 
+          84.35,
+          55.31   
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kabupaten Serang 2014",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          97.99, 
+          81.67, 
+          56.18   
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kota Tangerang 2014",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          93.75, 
+          81.42, 
+          60.28  
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kota Cilegon 2014",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96.31, 
+          85.93, 
+          69.69  
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kota Serang 2014",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          97.21, 
+          75.96, 
+          59.08   
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "title": "Angka Partisipasi Murni Kota Tangerang Selatan 2014",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          98.33, 
+          76.48, 
+          63.39   
         ]
       }
     ]

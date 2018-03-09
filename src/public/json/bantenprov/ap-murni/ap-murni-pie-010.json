@@ -1,7 +1,7 @@
 [
   {
     "xAxis": {
-      "type": "category",
+      "title": "APM Kabupaten Pandeglang 2012",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2018"
@@ -9,16 +9,16 @@
     "series": [
       {
         "data": [
-          {"value":120,"name":"SD/MI/Paket A"},
-          {"value":200,"name":"SMP/MTS/Paket B"},
-          {"value":150,"name":"SMA/SMK/Paket C"}
+          {"value":92.66,"name":"SD/MI/Paket A"},
+          {"value":77.97,"name":"SMP/MTS/Paket B"},
+          {"value":45.12,"name":"SMA/SMK/Paket C"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
+      "title": "APM Kabupaten Lebak 2012",
       "region": "Negara",
       "name": "Indonesia",
       "yyyy": "2018"
@@ -26,9 +26,383 @@
     "series": [
       {
         "data": [
-          {"value":50,"name":"SD/MI/Paket A"},
-          {"value":30,"name":"SMP/MTS/Paket B"},
-          {"value":350,"name":"SMA/SMK/Paket C"}
+          {"value":93.06,"name":"SD/MI/Paket A"},
+          {"value":69.99,"name":"SMP/MTS/Paket B"},
+          {"value":37.23,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kabupaten Tangerang 2012",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":95.89,"name":"SD/MI/Paket A"},
+          {"value":75.96,"name":"SMP/MTS/Paket B"},
+          {"value":54.64,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kabupaten Serang 2012",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":93.89,"name":"SD/MI/Paket A"},
+          {"value":76.80,"name":"SMP/MTS/Paket B"},
+          {"value":43.71,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kota Tangerang 2012",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":91.40,"name":"SD/MI/Paket A"},
+          {"value":66.48,"name":"SMP/MTS/Paket B"},
+          {"value":59.30,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kota Cilegon 2012",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":93.19,"name":"SD/MI/Paket A"},
+          {"value":80.20,"name":"SMP/MTS/Paket B"},
+          {"value":60.65,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kota Serang 2012",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":93.47,"name":"SD/MI/Paket A"},
+          {"value":68.90,"name":"SMP/MTS/Paket B"},
+          {"value":51.10,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kota Tangerang Selatan 2012",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":92.74,"name":"SD/MI/Paket A"},
+          {"value":74.79,"name":"SMP/MTS/Paket B"},
+          {"value":61.83,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kabupaten Pandeglang 2013",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":93.73,"name":"SD/MI/Paket A"},
+          {"value":73.01,"name":"SMP/MTS/Paket B"},
+          {"value":49.29,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kabupaten Lebak 2013",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":97.09,"name":"SD/MI/Paket A"},
+          {"value":65.08,"name":"SMP/MTS/Paket B"},
+          {"value":44.13,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kabupaten Tangerang 2013",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":96.74,"name":"SD/MI/Paket A"},
+          {"value":82.22,"name":"SMP/MTS/Paket B"},
+          {"value":54.75,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kabupaten Serang 2013",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":97.56,"name":"SD/MI/Paket A"},
+          {"value":80.94,"name":"SMP/MTS/Paket B"},
+          {"value":50.10,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kota Tangerang 2013",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":93.24,"name":"SD/MI/Paket A"},
+          {"value":80.59,"name":"SMP/MTS/Paket B"},
+          {"value":59.37,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kota Cilegon 2013",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":95.49,"name":"SD/MI/Paket A"},
+          {"value":85.32,"name":"SMP/MTS/Paket B"},
+          {"value":55.74,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kota Serang 2013",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":96.23,"name":"SD/MI/Paket A"},
+          {"value":76.79,"name":"SMP/MTS/Paket B"},
+          {"value":56.82,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kota Tangerang Selatan 2013",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":97.80,"name":"SD/MI/Paket A"},
+          {"value":73.96,"name":"SMP/MTS/Paket B"},
+          {"value":51.87,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kabupaten Pandeglang 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":94.30,"name":"SD/MI/Paket A"},
+          {"value":75.05,"name":"SMP/MTS/Paket B"},
+          {"value":56.98,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kabupaten Lebak 2014",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":97.56,"name":"SD/MI/Paket A"},
+          {"value":68.94,"name":"SMP/MTS/Paket B"},
+          {"value":46.49,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kabupaten Tangerang 2014",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":97.57,"name":"SD/MI/Paket A"},
+          {"value":84.35,"name":"SMP/MTS/Paket B"},
+          {"value":55.31,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kabupaten Serang 2014",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":97.99,"name":"SD/MI/Paket A"},
+          {"value":81.67,"name":"SMP/MTS/Paket B"},
+          {"value":56.18,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kota Tangerang 2014",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":93.75,"name":"SD/MI/Paket A"},
+          {"value":81.42,"name":"SMP/MTS/Paket B"},
+          {"value":60.28,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kota Cilegon 2014",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":96.31,"name":"SD/MI/Paket A"},
+          {"value":85.93,"name":"SMP/MTS/Paket B"},
+          {"value":69.69,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kota Serang 2014",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":97.21,"name":"SD/MI/Paket A"},
+          {"value":75.96,"name":"SMP/MTS/Paket B"},
+          {"value":59.08,"name":"SMA/SMK/Paket C"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "APM Kota Tangerang Selatan 2014",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":98.33,"name":"SD/MI/Paket A"},
+          {"value":76.48,"name":"SMP/MTS/Paket B"},
+          {"value":63.39,"name":"SMA/SMK/Paket C"}
         ]
       }
     ]
